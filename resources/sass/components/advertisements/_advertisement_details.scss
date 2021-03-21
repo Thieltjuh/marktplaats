@@ -1,0 +1,29 @@
+// Default Advertisement Details styling
+
+.container {
+    &--advertisement-details {
+
+        img {
+            margin-bottom: 20px;
+        }
+
+        .product-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .product-description {
+            margin-bottom: 20px;
+            white-space: pre-line;
+        }
+
+        .product-price {
+            font-weight: bold;
+        }
+
+        .full-width {
+            width: 100%;
+        }
+    }
+}

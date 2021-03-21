@@ -1,0 +1,14 @@
+// Default Advertisement styling
+
+.container {
+    .advertisement-title {
+        margin-bottom: 20px;
+    }
+
+    .truncate {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width:1px;
+    }
+}
